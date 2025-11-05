@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <title>IKnowSeasons - CV</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="initial-scale=1.0, width=device-width"
     <meta title="IKnowSeasons's Single page CV">
